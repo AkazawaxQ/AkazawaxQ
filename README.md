@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi there, I am Burak Akazawa 👋</h1>
 
-<!--
-**AkazawaxQ/AkazawaxQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Management Information Systems Student &nbsp;•&nbsp;
+  💻 Full-stack Learner &nbsp;•&nbsp;
+  🌍 Based in Türkiye
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 💼 Building academic & real-world systems with **C# WinForms** and **MSSQL**
+- 📊 Passionate about **nlp**, **llm**, **computer vision**, **data visualization**, and **system analysis**
+- 🛰️ Exploring hardware with **Arduino** and spatial data with **QGIS**
+- ✨ Always trying to turn ideas into working software
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- 🔐 [Portfolio Management System **Upcoming**(PIMS)](#)  
+  Complete asset/portfolio tracking application using C# & MSSQL with custom reporting.
+
+- 🛰️ [QGIS Industrial Analysis **Upcoming](#)  
+  Spatial analysis project on industrial zones & water consumption in Istanbul.
+
+- ⚙️ [Arduino Piano **Upcoming**  (Coming Soon)](#)  
+  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkazawaxQ&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkazawaxQ&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 💌 Email: akazawaxq@outlook.com.tr
+- 🔗 LinkedIn: [linkedin.com/in/burakmetinerdem](https://linkedin.com/in/burakmetinerdem)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7209b7&height=120&section=footer" />
+</p>
