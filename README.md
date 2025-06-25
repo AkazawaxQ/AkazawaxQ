@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I am Burak Akazawa 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
+  <img src="https://i.pinimg.com/originals/1f/0b/d5/1f0bd50dcf6befbf40217d62f5117031.gif" width="500" alt="Coding Gif" />
 </p>
 
 <p align="center">
-  🎓 Management Information Systems Student &nbsp;•&nbsp;
+  🎓 Management Information Systems Student (Graduated) &nbsp;•&nbsp;
   💻 Full-stack Learner &nbsp;•&nbsp;
   🌍 Based in Türkiye
 </p>
