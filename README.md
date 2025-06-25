@@ -41,7 +41,7 @@
 - 🔐 [Portfolio Management System (PMS)](https://github.com/AkazawaxQ/PortfolioMS)  
   Complete asset/portfolio tracking application using C# & MSSQL with custom reporting.
 
-- [Amadeus: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)] (#)
+- 👾 [Amadeus: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)](#)
   Via using American Sign Language, now everyone can write with hand signs, by using Amadeus you may increase your ASL skills, and also use the huge ASL dataset.
 
 - 🛰️ [QGIS Industrial Analysis **Upcoming** ](#)  
