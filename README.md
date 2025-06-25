@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-- 💼 Building academic & real-world systems with **C# WinForms** and **MSSQL**
-- 📊 Passionate about **nlp**, **llm**, **computer vision**, **data visualization**, and **system analysis**
+- 💼 Building academic & real-world systems with **Python**, **C# WinForms** and **MSSQL**
+- 📊 Passionate about **natural language processing**, **large language models**, **computer vision**, **data visualization**, and **system analysis**
 - 🛰️ Exploring hardware with **Arduino** and spatial data with **QGIS**
 - ✨ Always trying to turn ideas into working software
 
