@@ -37,16 +37,16 @@
 ---
 
 ## 📂 Featured Projects
-- 👾 [Amadeus: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)](#)  
+- 👾 [**Amadeus**: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)](#)  
   Via using American Sign Language, now everyone can write with hand signs, by using Amadeus you may increase your ASL skills, and also use the huge ASL dataset.
   
-- 🔐 [Portfolio Management System (PMS)](https://github.com/AkazawaxQ/PortfolioMS)  
+- 🔐 [**Portfolio Management System (PMS)**](https://github.com/AkazawaxQ/PortfolioMS)  
   Complete asset/portfolio tracking application using C# & MSSQL with custom reporting.
 
 - 🛰️ [QGIS Industrial Analysis **Upcoming** ](#)  
   Spatial analysis project on industrial zones & water consumption in Istanbul.
 
-- ⚙️ [Melody Maker: Capacitive touch piano using Arduino with LCD display output](https://github.com/AkazawaxQ/MelodyMaker)  
+- ⚙️ [**Melody Maker**: Capacitive touch piano using Arduino with LCD display output](https://github.com/AkazawaxQ/MelodyMaker)  
   A touch-sensitive mini piano built with Arduino, utilizing capacitive sensing and an LCD for real-time audio and visual feedback of musical notes.
   
 
