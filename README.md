@@ -43,7 +43,7 @@
 - 🔐 [**Portfolio Management System (PMS)**](https://github.com/AkazawaxQ/PortfolioMS)  
   Complete asset/portfolio tracking application using C# & MSSQL with custom reporting.
 
-- 🛰️ [QGIS Industrial Analysis **Upcoming** ](#)  
+- 🛰️ [**QGIS Analysis - Effect of Industrial Zones in Istanbul to Water Consumption and Dam Occupancies** ](https://github.com/AkazawaxQ/EffectOfIndustrialZones)  
   Spatial analysis project on industrial zones & water consumption in Istanbul.
 
 - ⚙️ [**Melody Maker**: Capacitive touch piano using Arduino with LCD display output](https://github.com/AkazawaxQ/MelodyMaker)  
