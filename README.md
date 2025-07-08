@@ -40,6 +40,9 @@
 - 👾 [**Amadeus**: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)](#)  
   Via using American Sign Language, now everyone can write with hand signs, by using Amadeus you may increase your ASL skills, and also use the huge ASL dataset.
   
+- 🌆 [**Shape Detection**: Real-time object shape, color, area, and perimeter detection using Python and OpenCV.](https://github.com/AkazawaxQ/ShapeDetector)  
+  A computer vision project that uses a webcam to detect object shapes (triangle, square, circle, etc.), identify their colors, and calculate their area and perimeter in real-time using Python and OpenCV.
+
 - 🔐 [**Portfolio Management System (PMS)**](https://github.com/AkazawaxQ/PortfolioMS)  
   Complete asset/portfolio tracking application using C# & MSSQL with custom reporting.
 
