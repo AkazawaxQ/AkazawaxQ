@@ -37,7 +37,7 @@
 ---
 
 ## 📂 Featured Projects
-- 👾 [**Amadeus**: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)](#)  
+- 👾 [**Amadeus**: Advanced Chatbot Systems with *HAND SIGN RECOGNITION* (Amadeus)](https://github.com/AkazawaxQ/AmadeusAI-Multimodal)  
   Via using American Sign Language, now everyone can write with hand signs, by using Amadeus you may increase your ASL skills, and also use the huge ASL dataset.
   
 - 🌆 [**Shape Detection**: Real-time object shape, color, area, and perimeter detection using Python and OpenCV.](https://github.com/AkazawaxQ/ShapeDetector)  
