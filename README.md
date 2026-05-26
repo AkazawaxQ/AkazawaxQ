@@ -7,7 +7,7 @@
 <p align="center">
   🎓 Management Information Systems Student (Graduated) &nbsp;•&nbsp;
   💻 Full-stack Learner &nbsp;•&nbsp;
-  🌍 Based in Türkiye
+  🌍 Based in Japan, Tokyo
 </p>
 
 ---
